@@ -1,0 +1,1 @@
+# legado-source-generator
